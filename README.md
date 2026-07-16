@@ -9,7 +9,7 @@ This project bridges the gap between basic Go syntax and core operating system c
 
 ## MY Learnings
 * **Deeper GO syntax:** Gone deeper into my GO learning journey. 
-* **Customizable:** Right now I have just added a few commands like "pwd", "ls" and "cd" using switch (ofc) , just basically experimenting rn.
+* **Customizable:** Right now I have just added a few commands like "pwd", "ls" ,"cd" and "dir" using switch (ofc) , just basically experimenting rn.
 * **Error Handling:** Learned how to handle errors gracefully. Still working on this part
 
 
