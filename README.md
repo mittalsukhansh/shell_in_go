@@ -1,6 +1,6 @@
 # K-Shell: A Custom Unix-Style Shell in Go
 
-Yes AI has been used but only for learning the syntax and some specific parts which I found hard, apart from that Stackoverflow (the goat) has been referred and basically skipped yt tuts but took help of https://blog.init-io.net/post/2018/07-01-go-unix-shell .
+Most of it I wrote and yes AI has been used but only for learning the syntax and some specific parts which I found hard, apart from that Stackoverflow (the goat) has been referred and basically skipped yt tuts but took help of https://blog.init-io.net/post/2018/07-01-go-unix-shell .
 GO docs are freaking overwhelming to read but trying my best to understand it.
 
 ## Intro to this project(kind of I would say)
