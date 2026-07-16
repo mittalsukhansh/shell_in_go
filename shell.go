@@ -34,7 +34,7 @@ func execInput(input string) {
 
 	if input == "" {
 		return
-	}
+	} 
 
 	args := strings.Split(input, " ")
 
@@ -72,7 +72,7 @@ func execInput(input string) {
 		return
 	}
 
-	cmd := exec.Command(args[0], args[1:]...)
+	cmd := exec.Command("cmd", "/C", strings.Join(args, " "))
 	cmd.Stderr = os.Stderr
 	cmd.Stdout = os.Stdout
 
